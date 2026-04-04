@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Med School or PA School?</title>
+ 
+  <style>
+    body  {
+      background-color: lightblue;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+      .fjalla-one-regular {
+      font-family: "Fjalla One", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+      color: #333;
+      text-align: center;
+    }
+    <style>
+  <head>
+  <body>
+
+    <div class="form-container">
+  <div class="box-group">
+    <label>Med School</label>
+    <textarea>-more specialized
+    -higher pay
+    -longer schooling</textarea>
+  </div>
+
+  <div class="box-group">
+    <label>PA School</label>
+    <textarea>-less specialized
+    -lower pay
+    -less schooling
+    -ability to change specialties</textarea>
+  </div>
+</div>
+
+<body>
+<html>
