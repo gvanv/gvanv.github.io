@@ -2,42 +2,59 @@
 <html>
 <head>
   <title>Med School or PA School?</title>
- 
+
   <style>
     body  {
-      background-color: lightblue;
+      background-color: lightgreen;
       background-repeat: no-repeat;
       background-size: cover;
       background-attachment: fixed;
-      .fjalla-one-regular {
-      font-family: "Fjalla One", sans-serif;
-      font-weight: 400;
-      font-style: normal;
-    }
+      font-family: Calibri, sans-serif;
       color: #333;
       text-align: center;
     }
-    <style>
-  <head>
- 
-  <body>
 
-    <div class="form-container">
-  <div class="box-group">
-    <label>Med School</label>
-    <textarea>-more specialized
-    -higher pay
-    -longer schooling</textarea>
-  </div>
+    .container {
+      background-color: rgba(255, 255, 255, 0.9);
+      margin: 70px auto;
+      padding: 30px;
+      width: 60%;
+      border-radius: 15px;
+    }
 
-  <div class="box-group">
-    <label>PA School</label>
-    <textarea>-less specialized
-    -lower pay
-    -less schooling
-    -ability to change specialties</textarea>
-  </div>
-</div>
+    img {
+      width: 300px;
+      border-radius: 10px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
 
 <body>
-<html>
+
+  <div class="container">
+    <h1>What is the better path? PA school or Med school?</h1>
+
+    <p><i>Students often ask which path would be more beneficial for them. It is a hard decision and one that can decide a lot in your life. Here are some tools to help you with making that decision easier!</i></p>
+
+    <img src="med page pic.jpg" alt="Med Page Pic">
+
+    <p>
+      Pros to PA School 
+    </p>
+
+    <p>
+      Cons to PA School
+    </p>
+
+    <p>
+      Pros to Med School
+    </p>
+
+    <p>
+      Cons to Med School
+    </p>
+  </div>
+
+</body>
+</html>
